@@ -1,10 +1,10 @@
 function verificarRespuestas() {
     let respuestasCorrectas = {
-        pregunta1: "b",
-        pregunta2: "a",
-        pregunta3: "c",
-        pregunta4: "a",
-        pregunta5: "b"
+        p1: "b",
+        p2: "a",
+        p3: "c",
+        p4: "a",
+        p5: "b"
     };
 
     let puntos = 0;
