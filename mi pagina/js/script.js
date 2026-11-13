@@ -1,7 +1,7 @@
 function verificarRespuestas() {
     let respuestasCorrectas = {
         p1: "b",
-        p2: "a",
+        p2: "c",
         p3: "c",
         p4: "a",
         p5: "b"
